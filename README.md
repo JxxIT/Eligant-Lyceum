@@ -1,2 +1,2 @@
-# Somtoday-Zoeken
- Een chrome-extensie om te zoeken in je somtoday rooster.
+# Eligant Lyceum
+ Een chrome-extensie (en voor andere browsers) met allemaal handige functies voor op het Eligant.
